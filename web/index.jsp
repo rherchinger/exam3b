@@ -78,11 +78,7 @@
             <h2 class="section-heading text-white">This is more about myself:</h2>
             <hr class="light my-4">
             <p class="text-faded mb-4">
-                
-                
-                
-                
-                
+                Diligent, hard-working and looking to expand from my current business, international, and course experience to learn more about software development, software, and how technology can improve business functionality.
             </p>
           </div>
         </div>
