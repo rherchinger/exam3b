@@ -23,6 +23,9 @@
 
     <!-- Custom styles for this template -->
     <link href="css/creative.min.css" rel="stylesheet">
+    
+    <link rel="stylesheet" href="path/to/font-awesome/css/font-awesome.min.css">
+    
 
   </head>
 
@@ -65,7 +68,6 @@
           </div>
           <div class="col-lg-8 mx-auto">
             <p class="text-faded mb-5">Senior at the University of Iowa, finishing a B.A Information Systems and German Language minor. Aspiring to be an application developer/business analyst and to expand my knowledge of technology and software.</p>
-            <a class="btn btn-primary btn-xl js-scroll-trigger" href="#about">Find Out More</a>
           </div>
         </div>
       </div>
@@ -76,6 +78,7 @@
         <div class="row">
           <div class="col-lg-8 mx-auto text-center">
             <h2 class="section-heading text-white">This is more about myself:</h2>
+            <p>Diligent, hard-working individual trying to expand from my current business and international experience to learn more about web application development, software, and how businesses can better perform with the use of technology.</p>
             <hr class="light my-4">
             <p class="text-faded mb-4">
                 
@@ -102,28 +105,29 @@
         <div class="row">
           <div class="col-lg-3 col-md-6 text-center">
             <div class="service-box mt-5 mx-auto">
-              <i class="fa fa-4x fa-diamond text-primary mb-3 sr-icons"></i>
+              <i class="fa fa-github-square fa-5x" aria-hidden="true"></i>
               <h3 class="mb-3">GitHub</h3>
               <p class="text-muted mb-0">See what projects I have been working on in class.</p>
             </div>
           </div>
           <div class="col-lg-3 col-md-6 text-center">
             <div class="service-box mt-5 mx-auto">
-              <i class="fa fa-4x fa-paper-plane text-primary mb-3 sr-icons"></i>
+              <i class="fa fa-linkedin-square fa-5x" aria-hidden="true"></i>
               <h3 class="mb-3">LinkedIn</h3>
               <p class="text-muted mb-0">Checkout my profile, learn more about my experiences and skills</p>
             </div>
           </div>
           <div class="col-lg-3 col-md-6 text-center">
             <div class="service-box mt-5 mx-auto">
-              <i class="fa fa-4x fa-newspaper-o text-primary mb-3 sr-icons"></i>
+              <i class="fa fa-paperclip fa-5x" aria-hidden="true"></i>
               <h3 class="mb-3">Resume</h3>
               <p class="text-muted mb-0"> See what I've accomplish at the University of Iowa and business experience</p>
             </div>
           </div>
           <div class="col-lg-3 col-md-6 text-center">
             <div class="service-box mt-5 mx-auto">
-              <i class="fa fa-4x fa-heart text-primary mb-3 sr-icons"></i>
+              <i class="fa fa-facebook-square fa-5x" aria-hidden="true"></i>
+              <i class="fa fa-instagram fa-5x" aria-hidden="true"></i> 
               <h3 class="mb-3">Facebook/Instagram</h3>
               <p class="text-muted mb-0">See the other side of my life filled with family, friends, and adventures.</p>
             </div>
