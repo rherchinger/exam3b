@@ -100,14 +100,14 @@
         <div class="row">
           <div class="col-lg-3 col-md-6 text-center">
             <div class="service-box mt-5 mx-auto">
-              <i class="fa fa-github-square fa-5x" aria-hidden="true"></i>
+                <a href="https://github.com/rherchinger" ><i class="fa fa-github-square fa-5x" aria-hidden="true"></i></a>
               <h3 class="mb-3">GitHub</h3>
               <p class="text-muted mb-0">See what projects I have been working on in class.</p>
             </div>
           </div>
           <div class="col-lg-3 col-md-6 text-center">
             <div class="service-box mt-5 mx-auto">
-              <i class="fa fa-linkedin-square fa-5x" aria-hidden="true"></i>
+                <a href="https://www.linkedin.com/in/ryan-erchinger-a0b39a100/" ><i class="fa fa-linkedin-square fa-5x" aria-hidden="true"></i></a>
               <h3 class="mb-3">LinkedIn</h3>
               <p class="text-muted mb-0">Checkout my profile, learn more about my experiences and skills</p>
             </div>
@@ -115,14 +115,14 @@
           <div class="col-lg-3 col-md-6 text-center">
             <div class="service-box mt-5 mx-auto">
               <i class="fa fa-paperclip fa-5x" aria-hidden="true"></i>
-              <h3 class="mb-3">Resume</h3>
+              <a href="../paperwork/Resume.pdf"><h3 class="mb-3">Resume</h3></a>
               <p class="text-muted mb-0"> See what I've accomplish at the University of Iowa and business experience</p>
             </div>
           </div>
           <div class="col-lg-3 col-md-6 text-center">
             <div class="service-box mt-5 mx-auto">
-              <i class="fa fa-facebook-square fa-5x" aria-hidden="true"></i>
-              <i class="fa fa-instagram fa-5x" aria-hidden="true"></i>
+                <a href="https://www.facebook.com/ryan.erchinger"><i class="fa fa-facebook-square fa-5x" aria-hidden="true"></i></a>
+                <a href="https://www.instagram.com/ryanerch/"><i class="fa fa-instagram fa-5x" aria-hidden="true"></i></a>
               <h3 class="mb-3">Facebook/Instagram</h3>
               <p class="text-muted mb-0">See the other side of my life filled with family, friends, and adventures.</p>
             </div>
