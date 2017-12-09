@@ -114,8 +114,8 @@
           </div>
           <div class="col-lg-3 col-md-6 text-center">
             <div class="service-box mt-5 mx-auto">
-              <i class="fa fa-paperclip fa-5x" aria-hidden="true"></i>
-              <a href="../paperwork/Resume.pdf"><h3 class="mb-3">Resume</h3></a>
+                <a href="http://f17-msci3300-07.azurewebsites.net/Resume.pdf"><i class="fa fa-paperclip fa-5x" aria-hidden="true"></i></a>
+              <h3 class="mb-3">Resume</h3>
               <p class="text-muted mb-0"> See what I've accomplish at the University of Iowa and business experience</p>
             </div>
           </div>
