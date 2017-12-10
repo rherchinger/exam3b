@@ -116,7 +116,7 @@
             <div class="service-box mt-5 mx-auto">
                 <a href="http://f17-msci3300-07.azurewebsites.net/Resume.pdf"><i class="fa fa-paperclip fa-5x" aria-hidden="true"></i></a>
               <h3 class="mb-3">Resume</h3>
-              <p class="text-muted mb-0"> See what I've accomplish at the University of Iowa and business experience</p>
+              <p class="text-muted mb-0"> See what I've accomplished at the University of Iowa and my business experience</p>
             </div>
           </div>
           <div class="col-lg-3 col-md-6 text-center">
@@ -124,7 +124,7 @@
                 <a href="https://www.facebook.com/ryan.erchinger"><i class="fa fa-facebook-square fa-5x" aria-hidden="true"></i></a>
                 <a href="https://www.instagram.com/ryanerch/"><i class="fa fa-instagram fa-5x" aria-hidden="true"></i></a>
               <h3 class="mb-3">Facebook/Instagram</h3>
-              <p class="text-muted mb-0">See the other side of my life filled with family, friends, and adventures.</p>
+              <p class="text-muted mb-0">See the other side of my life filled with family, friends, and adventures. Add me on social media!</p>
             </div>
           </div>
         </div>
