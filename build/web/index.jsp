@@ -133,11 +133,7 @@
 
     <section class="p-0" id="portfolio">
         <h2> Homework Samples </h2>
-        <a href="./homework4.jsp"> Homework 4</a>
-        <br>
-        <a href="./homework5.jsp"> Homework 5</a>
-        <br>
-        <a href="./homework6.jsp"> Homework 6</a>
+        <a href="./homework4.jsp"> Homework (4-6)</a>
         
         <hr>
         
