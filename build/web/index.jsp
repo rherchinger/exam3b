@@ -150,14 +150,8 @@
         <a href="./homework5link.jsp"> Homework 5</a>
         <br>
         <a href="./homework6link.jsp"> Homework 6</a>
+        <hr>
         
-    </section>
-
-    <section class="bg-dark text-white">
-      <div class="container text-center">
-        <h2 class="mb-4">Free Download at Start Bootstrap!</h2>
-        <a class="btn btn-light btn-xl sr-button" href="http://startbootstrap.com/template-overviews/creative/">Download Now!</a>
-      </div>
     </section>
 
     <section id="contact">
